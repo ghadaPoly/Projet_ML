@@ -1,7 +1,5 @@
 # Projet_ML
 Projet machine learning intitulé : Prédiction Simultanée de la Réhospitalisation et du Changement de Traitement chez les Patients Diabétiques par Classification Multi-Label 
-# Projet Machine Learning Médical
-
 ## Description
 Ce projet consiste à construire un pipeline complet de machine learning appliqué à un dataset médical de patients diabétiques. L’objectif est de prédire deux variables cibles :
 - La réadmission des patients
